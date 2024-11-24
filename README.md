@@ -1,1 +1,1 @@
-Three basic html projects
+Resortconnect is a website to manage resort details and enhance visitor interaction ,it has key features like about us for resort details ,actitvites to showcase,announcements for updates,and a dedicated page for kitchen,rooms,surrounding and nearby places and celebrations taking place in resort .these features provide engaging user experience offering visitors easy access to essential information about their stay.
